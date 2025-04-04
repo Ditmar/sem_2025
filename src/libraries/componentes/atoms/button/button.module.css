@@ -1,0 +1,43 @@
+.button {
+    border: 0;
+    outline: 0;
+    display: block;
+    border-radius: 3px;
+    padding: 0.5em 1em;
+}
+
+.small {
+    font-size: 0.8em;
+    padding: 0.25em 0.5em;
+}
+
+.medium {
+    font-size: 1em;
+    padding: 0.5em 1em;
+}
+
+.large {
+    font-size: 1.2em;
+    padding: 0.75em 1.5em;
+}
+
+.primary {
+    background-color: #28a745;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.secondary {
+    background-color: #6c757d;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.tertiary {
+    background-color: #17a2b8;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
